@@ -1,0 +1,617 @@
+,TF,At_ShortName_TF,At_description_TF,Target,At_ShortName_Target,At_description_Target,Importance
+1,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_9_117441,LHCB6,light harvesting complex photosystem II subunit 6,0.088349445
+2,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_2_107521,,,0.085422358
+3,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_45860,J20,DNAJ-like 20,0.085362607
+4,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_5_187500,AT4G02920,,0.085034069
+5,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_6_72741,AATP1,AAA-ATPase 1,0.084246878
+6,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_8_5560,AT4G27700,Rhodanese/Cell cycle control phosphatase superfamily protein,0.083627124
+10,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_9_7181,AT4G01650,Polyketide cyclase / dehydrase and lipid transport protein,0.081207003
+11,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_1_7161,NdhM,subunit NDH-M of NAD(P)H:plastoquinone dehydrogenase complex,0.08088827
+13,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_2_109721,AT2G37050,Leucine-rich repeat protein kinase family protein,0.080239445
+14,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_1_75300,PGR5,proton gradient regulation 5,0.080133341
+15,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_1_120661,GUN4,enzyme binding;tetrapyrrole binding,0.07986303
+16,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_8_150760,AOAT2,alanine-2-oxoglutarate aminotransferase 2,0.079709429
+17,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_5_54420,,,0.079375431
+18,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_3_11260,AT5G42070,,0.078864699
+28,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_7_17820,AT1G11660,heat shock protein 70 (Hsp 70) family protein,0.075661366
+31,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_2_73880,GLR3.6,glutamate receptor 3.6,0.075102478
+32,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_5_54420,,,0.075093793
+34,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_4_75800,AT3G48200,,0.074729727
+35,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_8_6940,IQD23,IQ-domain 23,0.074374092
+38,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_4_108360,AT1G18810,phytochrome kinase substrate-related,0.073821419
+44,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_8_127440,AT4G38840,SAUR-like auxin-responsive protein family,0.07308995
+46,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_73880,GLR3.6,glutamate receptor 3.6,0.072988898
+47,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_128600,PEX11B,peroxin 11B,0.072652886
+52,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_6_72741,AATP1,AAA-ATPase 1,0.07204147
+55,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_116781,UGT76B1,UDP-Glycosyltransferase superfamily protein,0.071459267
+59,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_9_30221,CRD1,"dicarboxylate diiron protein, putative (Crd1)",0.07092495
+60,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_1_29520,AT4G24810,Protein kinase superfamily protein,0.07088342
+61,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_9_103941,,,0.070811367
+64,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_7_66960,AT5G08350,GRAM domain-containing protein / ABA-responsive protein-related,0.070307279
+66,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_9_81901,FRO7,ferric reduction oxidase 7,0.069935885
+70,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_5_178260,AT3G07470,"Protein of unknown function, DUF538",0.069657195
+71,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,0.069582463
+73,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_8_38401,STN7,STT7 homolog STN7,0.069539046
+78,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_6_28181,NdhT,Chaperone DnaJ-domain superfamily protein,0.069439602
+79,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_9_81901,FRO7,ferric reduction oxidase 7,0.069003141
+80,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_9_15700,AT2G04039,,0.068994959
+87,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_9_7300,,,0.068533791
+92,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_3_40660,AT1G68660,Ribosomal protein L12/ ATP-dependent Clp protease adaptor protein ClpS family protein,0.068084811
+93,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_5_134441,ATHB-15,Homeobox-leucine zipper family protein / lipid-binding START domain-containing protein,0.06805369
+95,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_7_48761,ALDH11A3,aldehyde dehydrogenase 11A3,0.067739504
+96,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_7_8081,AT4G22990,Major Facilitator Superfamily with SPX (SYG1/Pho81/XPR1) domain-containing protein,0.067733233
+98,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_1_7420,GALK,Mevalonate/galactokinase family protein,0.067709365
+102,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_7_26081,,,0.067532386
+103,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_6_97181,AT1G44000,,0.067362967
+104,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_124081,AT3G56010,,0.067340544
+106,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_3_140060,AT4G00880,SAUR-like auxin-responsive protein family,0.067132089
+108,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_9_65460,AT2G16050,Cysteine/Histidine-rich C1 domain family protein,0.067091699
+112,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_5_67880,AARE,acylaminoacyl-peptidase-related,0.066747975
+117,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_8_27020,PUB43,ARM repeat superfamily protein,0.066457511
+119,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_1_9760,TRX-M4,thioredoxin M-type 4,0.066450484
+121,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_1_93321,AT3G09440,Heat shock protein 70 (Hsp 70) family protein,0.066292453
+132,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_109721,AT2G37050,Leucine-rich repeat protein kinase family protein,0.06577661
+144,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_5_121081,GSTU20,glutathione S-transferase TAU 20,0.065065574
+146,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_2_107521,,,0.065005542
+148,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_6_17740,PRK,phosphoribulokinase,0.064888163
+155,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_5_61061,AT5G19940,Plastid-lipid associated protein PAP / fibrillin family protein,0.064614311
+157,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_6_79560,AT2G35260,,0.064445561
+160,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_3_61200,AT1G26180,,0.064131077
+161,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,0.064011093
+163,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_8_57160,AT4G14740,Plant protein of unknown function (DUF828) with plant pleckstrin homology-like region,0.06388091
+165,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_9_10500,ABCI18,non-intrinsic ABC protein 4,0.063773084
+175,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_1_61900,AT3G44820,Phototropic-responsive NPH3 family protein,0.063166404
+181,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_9_32981,,,0.062977461
+185,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_7_86401,AT4G37250,Leucine-rich repeat protein kinase family protein,0.062833606
+189,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_9_103440,GOX1,Aldolase-type TIM barrel family protein,0.062798285
+190,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,0.062788785
+197,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_2_79721,AT5G38510,Rhomboid-related intramembrane serine protease family protein,0.062567468
+198,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_4_16921,AT1G13570,F-box/RNI-like superfamily protein,0.062544046
+202,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_6_37661,AT5G61910,DCD (Development and Cell Death) domain protein,0.062291401
+207,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_0_17841,DMR6,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,0.062050473
+216,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_7_99420,AT1G17200,Uncharacterised protein family (UPF0497),0.061705405
+217,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_79721,AT5G38510,Rhomboid-related intramembrane serine protease family protein,0.06170367
+221,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_7_48761,ALDH11A3,aldehyde dehydrogenase 11A3,0.061641975
+229,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_5_127880,SPA4,SPA1-related 4,0.061327062
+242,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_3_16821,EMB975,Tetratricopeptide repeat (TPR)-like superfamily protein,0.060916065
+243,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_7_8081,AT4G22990,Major Facilitator Superfamily with SPX (SYG1/Pho81/XPR1) domain-containing protein,0.060886417
+251,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_5_24941,SPPA,signal peptide peptidase,0.060689416
+252,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_5_10481,AT5G50860,Protein kinase superfamily protein,0.060656247
+255,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_83740,AT5G67385,Phototropic-responsive NPH3 family protein,0.060570631
+259,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_3_35260,AT5G08580,Calcium-binding EF hand family protein,0.060485762
+266,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_2_65961,AT4G33565,RING/U-box superfamily protein,0.060169796
+277,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_82860,AT4G37560,Acetamidase/Formamidase family protein,0.0598941
+279,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_1_95341,CAB1,chlorophyll A/B binding protein 1,0.059886615
+284,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_8_116020,TLP18.3,thylakoid lumen 18.3 kDa protein,0.059824202
+292,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_4_184040,AT5G40500,,0.059629745
+304,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_3_46860,HPR,hydroxypyruvate reductase,0.059165001
+305,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_1_95341,CAB1,chlorophyll A/B binding protein 1,0.059112374
+306,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_1_12280,AT1G22630,,0.059107976
+348,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_2_77740,BCS1,cytochrome BC1 synthesis,0.058297596
+363,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_5_109301,MEE9,maternal effect embryo arrest 9,0.057820439
+364,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_8_93401,HCF101,ATP binding,0.057816557
+368,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_5_18180,EDS1,alpha/beta-Hydrolases superfamily protein,0.057720003
+370,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_7_83081,AT5G64460,Phosphoglycerate mutase family protein,0.057700032
+372,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_6_78800,PGR5-LIKE A,PGR5-LIKE A,0.057657623
+373,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_6_37661,AT5G61910,DCD (Development and Cell Death) domain protein,0.057646118
+375,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_1_93321,AT3G09440,Heat shock protein 70 (Hsp 70) family protein,0.057605477
+398,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_5_24941,SPPA,signal peptide peptidase,0.05709301
+400,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_69481,GAI,GRAS family transcription factor family protein,0.057042192
+423,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_1_47140,AT1G10340,Ankyrin repeat family protein,0.056532133
+428,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_3_30600,AT1G67900,Phototropic-responsive NPH3 family protein,0.056473251
+429,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_136280,TAP38,thylakoid-associated phosphatase 38,0.056436436
+437,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_3_90761,ABA1,zeaxanthin epoxidase (ZEP) (ABA1),0.056196062
+441,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_8_83941,AT2G41120,,0.056160248
+447,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_9_96840,TRX-M4,thioredoxin M-type 4,0.056079971
+453,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_7_66960,AT5G08350,GRAM domain-containing protein / ABA-responsive protein-related,0.055998706
+464,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_1_53521,PDE149,integral membrane TerC family protein,0.055816314
+469,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_6_32621,AT2G46150,Late embryogenesis abundant (LEA) hydroxyproline-rich glycoprotein family,0.055755391
+470,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_9_44560,SULTR2;1,slufate transporter 2;1,0.055742695
+491,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_6_73360,PRK,phosphoribulokinase,0.055386899
+498,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_2_60101,CAT5,cationic amino acid transporter 5,0.055303296
+501,Lsat_1_v5_gn_3_59241,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_4_170140,AT3G29240,Protein of unknown function (DUF179),0.055248826
+505,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_3_30600,AT1G67900,Phototropic-responsive NPH3 family protein,0.05510886
+510,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_8_3801,ENH1,rubredoxin family protein,0.054987169
+513,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_5_18140,EDS1,alpha/beta-Hydrolases superfamily protein,0.054967185
+519,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_6_116940,AT5G06060,NAD(P)-binding Rossmann-fold superfamily protein,0.054877099
+531,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_5_39260,AT1G54730,Major facilitator superfamily protein,0.054636962
+548,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_9_27981,AT2G42220,Rhodanese/Cell cycle control phosphatase superfamily protein,0.054477935
+569,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_8_45920,,,0.054124249
+584,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_1_71080,CYP71A21,"cytochrome P450, family 71, subfamily A, polypeptide 21",0.053879695
+585,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_5_93661,CRCK3,calmodulin-binding receptor-like cytoplasmic kinase 3,0.053879224
+594,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_9_440,AT4G02210,,0.053786179
+595,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_5_19280,HIR1,SPFH/Band 7/PHB domain-containing membrane-associated protein family,0.053783588
+603,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_2_5500,MSL6,mechanosensitive channel of small conductance-like 6,0.053694221
+604,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_2_6220,CRL1,NAD(P)-binding Rossmann-fold superfamily protein,0.053680118
+611,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_6_15161,NCED4,nine-cis-epoxycarotenoid dioxygenase 4,0.053578721
+616,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_6_8180,PGR5-LIKE A,PGR5-LIKE A,0.053512939
+620,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_8_27020,PUB43,ARM repeat superfamily protein,0.053462035
+625,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_0_17841,DMR6,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,0.053341174
+642,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_1_12081,,,0.053122589
+654,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_1_23721,CYP81D8,"cytochrome P450, family 81, subfamily D, polypeptide 8",0.052896533
+655,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_8_45920,,,0.052889294
+670,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_9_5880,ABCC14,multidrug resistance-associated protein 10,0.052738079
+680,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_2_131181,FRO4,ferric reduction oxidase 4,0.0526332
+683,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_9_35061,WAK2,wall-associated kinase 2,0.052605323
+685,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_9_71981,AT2G27310,F-box family protein,0.052586184
+691,Lsat_1_v5_gn_3_59241,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_1_59700,,,0.052478562
+706,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_7_45721,AT5G20110,Dynein light chain type 1 family protein,0.052293535
+724,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_2_50320,CYP716A1,"cytochrome P450, family 716, subfamily A, polypeptide 1",0.052061968
+732,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_5_18180,EDS1,alpha/beta-Hydrolases superfamily protein,0.051991864
+733,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_107041,ABCB1,ATP binding cassette subfamily B1,0.051977576
+748,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_4_28800,CAB1,chlorophyll A/B binding protein 1,0.051857554
+755,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_9_35061,WAK2,wall-associated kinase 2,0.051747169
+757,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_4_185601,LHT1,lysine histidine transporter 1,0.051726474
+776,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_8_148560,AT1G67510,Leucine-rich repeat protein kinase family protein,0.051550958
+790,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_1_27281,CYP71A26,"cytochrome P450, family 71, subfamily A, polypeptide 26",0.051406655
+795,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_4_182780,AT5G14680,Adenine nucleotide alpha hydrolases-like superfamily protein,0.051389004
+796,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_1_53381,PBP1,pinoid-binding protein 1,0.051379646
+807,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_7_86401,AT4G37250,Leucine-rich repeat protein kinase family protein,0.051295015
+812,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_7_73381,AT4G25800,Calmodulin-binding protein,0.051238517
+819,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_1_47140,AT1G10340,Ankyrin repeat family protein,0.051201322
+826,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_3_88240,CGLD27,Protein of unknown function (DUF1230),0.051130283
+833,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_6_90781,AT4G16650,O-fucosyltransferase family protein,0.051061667
+840,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_5_154060,,,0.05097381
+843,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_2_77800,BCS1,cytochrome BC1 synthesis,0.050937587
+852,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_101800,AT2G35880,TPX2 (targeting protein for Xklp2) protein family,0.050858043
+878,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_8_32020,AT3G58830,haloacid dehalogenase (HAD) superfamily protein,0.050553716
+881,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,0.050543698
+886,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_3_140060,AT4G00880,SAUR-like auxin-responsive protein family,0.050511016
+890,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,0.050470188
+904,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,0.050361113
+929,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_8_37441,CHUP1,Hydroxyproline-rich glycoprotein family protein,0.050135678
+939,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_5_24920,UGT89B1,UDP-glucosyl transferase 89B1,0.050004335
+940,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_1_23721,CYP81D8,"cytochrome P450, family 81, subfamily D, polypeptide 8",0.050003032
+957,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_6_41521,AT2G36430,Plant protein of unknown function (DUF247),0.049923854
+960,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_1_27281,CYP71A26,"cytochrome P450, family 71, subfamily A, polypeptide 26",0.049916247
+994,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_3_61861,AT1G25390,Protein kinase superfamily protein,0.049668122
+996,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_8_149340,emb1688,Minichromosome maintenance (MCM2/3/5) family protein,0.049660243
+1013,Lsat_1_v5_gn_3_59241,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_8_35940,AT3G46730,NB-ARC domain-containing disease resistance protein,0.049585003
+1025,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_80961,PMI2,Plant protein of unknown function (DUF827),0.0495006
+1027,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_92941,SOX,sulfite oxidase,0.049485702
+1041,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_8_119040,,,0.049388563
+1053,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_4_61701,AT4G22190,,0.049295259
+1059,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_1_23701,CYP81D2,"cytochrome P450, family 81, subfamily D, polypeptide 2",0.049253883
+1075,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_2_77800,BCS1,cytochrome BC1 synthesis,0.049114095
+1078,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_4_60640,AT1G61900,,0.04909203
+1102,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_5_143061,TAG1,membrane bound O-acyl transferase (MBOAT) family protein,0.048883076
+1103,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_6_90041,AT4G12290,Copper amine oxidase family protein,0.048871137
+1134,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_1_35440,HTH,Glucose-methanol-choline (GMC) oxidoreductase family protein,0.048654375
+1139,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_6_15161,NCED4,nine-cis-epoxycarotenoid dioxygenase 4,0.048608747
+1197,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_3_10920,AT1G64430,Pentatricopeptide repeat (PPR) superfamily protein,0.048220674
+1224,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_1_9340,ACR3,ACT domain repeat 3,0.048059634
+1229,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_0_9740,AT5G54130,Calcium-binding endonuclease/exonuclease/phosphatase family,0.048033909
+1251,Lsat_1_v5_gn_3_59241,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_5_22601,AT5G60980,Nuclear transport factor 2 (NTF2) family protein with RNA binding (RRM-RBD-RNP motifs) domain,0.047915459
+1255,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_7_45481,AT2G26690,Major facilitator superfamily protein,0.047883462
+1272,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_9_103440,GOX1,Aldolase-type TIM barrel family protein,0.047740903
+1277,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_1_12041,,,0.047721861
+1286,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_5_190060,,,0.047675603
+1294,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_7_98760,AT5G48290,Heavy metal transport/detoxification superfamily protein,0.047605536
+1297,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_6_7001,EMB1586,P-loop containing nucleoside triphosphate hydrolases superfamily protein,0.04759235
+1302,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_9_103941,,,0.047574428
+1307,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_5_143381,MKK2,MAP kinase kinase 2,0.04753826
+1315,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_5_18140,EDS1,alpha/beta-Hydrolases superfamily protein,0.047485362
+1330,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_5_24920,UGT89B1,UDP-glucosyl transferase 89B1,0.047432129
+1352,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_1_12041,,,0.047279142
+1361,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_2_60101,CAT5,cationic amino acid transporter 5,0.047247588
+1393,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_2_62600,WAKL2,wall associated kinase-like 2,0.047043476
+1411,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_9_65460,AT2G16050,Cysteine/Histidine-rich C1 domain family protein,0.046937201
+1414,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_8_149340,emb1688,Minichromosome maintenance (MCM2/3/5) family protein,0.046916931
+1439,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_4_114461,ER-ANT1,endoplasmic reticulum-adenine nucleotide transporter 1,0.046765801
+1440,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_7_46640,AT5G36930,Disease resistance protein (TIR-NBS-LRR class) family,0.046757782
+1465,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_8_6940,IQD23,IQ-domain 23,0.046651939
+1497,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_9_71981,AT2G27310,F-box family protein,0.046462058
+1499,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_9_35061,WAK2,wall-associated kinase 2,0.046452861
+1518,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_3_10681,AT5G53110,RING/U-box superfamily protein,0.046296963
+1530,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_101560,AT3G32930,,0.046205522
+1558,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_1_23721,CYP81D8,"cytochrome P450, family 81, subfamily D, polypeptide 8",0.046070144
+1565,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_7_82781,AT2G14110,Haloacid dehalogenase-like hydrolase (HAD) superfamily protein,0.046033603
+1592,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_8_137081,GRX480,Thioredoxin superfamily protein,0.045915351
+1596,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_41261,AT1G60000,RNA-binding (RRM/RBD/RNP motifs) family protein,0.04589235
+1602,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_5_82100,PAD4,alpha/beta-Hydrolases superfamily protein,0.045860422
+1621,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_3_90240,AT3G50210,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,0.045758096
+1631,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_2_77740,BCS1,cytochrome BC1 synthesis,0.045722618
+1636,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_5_148320,AT5G01790,,0.045696515
+1637,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_3_124481,EP3,homolog of carrot EP3-3 chitinase,0.045695673
+1645,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_115981,PnsL1,PsbP-like protein 2,0.045665318
+1662,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_3_77561,AT3G62470,Pentatricopeptide repeat (PPR) superfamily protein,0.045588755
+1663,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_5_95120,AT2G26600,Glycosyl hydrolase superfamily protein,0.045588655
+1679,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_47140,AT4G13840,HXXXD-type acyl-transferase family protein,0.04553814
+1718,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_4_115760,AT1G49010,Duplicated homeodomain-like superfamily protein,0.0453635
+1721,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,0.045349786
+1735,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_8_126641,AT2G21220,SAUR-like auxin-responsive protein family,0.045297654
+1747,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_5_34461,AT5G10310,,0.045234785
+1750,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_5_154840,,,0.045219363
+1764,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_85720,DEAR2,DREB and EAR motif protein 2,0.045151706
+1779,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_5_143381,MKK2,MAP kinase kinase 2,0.04510026
+1814,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_12201,ASPG1,Eukaryotic aspartyl protease family protein,0.04495779
+1815,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_2_19081,AT2G39210,Major facilitator superfamily protein,0.044952884
+1830,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_1_86800,AT5G39000,Malectin/receptor-like protein kinase family protein,0.044871868
+1850,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_5_15200,ATB BETA,"Protein phosphatase 2A, regulatory subunit PR55",0.044807646
+1855,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_3_16321,AT3G58690,Protein kinase superfamily protein,0.044788265
+1891,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_1_58500,AT5G06480,Immunoglobulin E-set superfamily protein,0.044652334
+1893,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_8_135021,AT1G63220,Calcium-dependent lipid-binding (CaLB domain) family protein,0.044644714
+1901,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_3_51160,APK2B,protein kinase 2B,0.044613308
+1911,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_1_94880,,,0.044564987
+1948,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_1_12081,,,0.044414389
+1957,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_5_44981,AT2G21860,violaxanthin de-epoxidase-related,0.04438885
+1971,Lsat_1_v5_gn_3_59241,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_3_16621,AT1G32520,,0.044331609
+1982,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_5_153420,PXN,Mitochondrial substrate carrier family protein,0.044252098
+1990,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_1_19040,AT1G75280,NmrA-like negative transcriptional regulator family protein,0.044224729
+2004,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_7_82781,AT2G14110,Haloacid dehalogenase-like hydrolase (HAD) superfamily protein,0.044156551
+2024,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_1_23721,CYP81D8,"cytochrome P450, family 81, subfamily D, polypeptide 8",0.044105118
+2035,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_4_132341,AT4G10300,RmlC-like cupins superfamily protein,0.044051635
+2041,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_2_64840,AT5G28050,Cytidine/deoxycytidylate deaminase family protein,0.044031247
+2045,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_6_55581,RLP46,receptor like protein 46,0.044017954
+2048,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_6_4360,AT2G46150,Late embryogenesis abundant (LEA) hydroxyproline-rich glycoprotein family,0.044011692
+2053,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_6_72801,AATP1,AAA-ATPase 1,0.043995084
+2084,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_1_77640,AT4G31530,NAD(P)-binding Rossmann-fold superfamily protein,0.043883979
+2116,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_1_80920,AT5G08720,,0.043795945
+2135,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_7_75180,AT2G23390,,0.043725708
+2149,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_9_65460,AT2G16050,Cysteine/Histidine-rich C1 domain family protein,0.04369979
+2152,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_3_97620,AT3G02100,UDP-Glycosyltransferase superfamily protein,0.04368945
+2193,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,0.043555045
+2210,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_1_129921,AT4G16410,,0.043502383
+2222,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_6_4461,AT1G01490,Heavy metal transport/detoxification superfamily protein,0.043467581
+2253,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_1_23701,CYP81D2,"cytochrome P450, family 81, subfamily D, polypeptide 2",0.043351436
+2295,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_4_14360,PIN3,Auxin efflux carrier family protein,0.043214389
+2301,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_4_124360,MAPKKK5,mitogen-activated protein kinase kinase kinase 5,0.043179862
+2343,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_8_123140,NSI,nuclear shuttle interacting,0.043019545
+2346,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,0.042992746
+2348,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_9_63460,AT2G37800,Cysteine/Histidine-rich C1 domain family protein,0.042984012
+2349,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_5_30680,AT1G31130,,0.042980851
+2350,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_1_8361,CH1,Pheophorbide a oxygenase family protein with Rieske [2Fe-2S] domain,0.042969692
+2359,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_9_103941,,,0.042944829
+2361,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_8_127861,AT4G38840,SAUR-like auxin-responsive protein family,0.042936753
+2378,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_6_37661,AT5G61910,DCD (Development and Cell Death) domain protein,0.042893122
+2379,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_5_121181,WAG1,WAG 1,0.042887972
+2399,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_1_7420,GALK,Mevalonate/galactokinase family protein,0.042808504
+2408,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_8_150760,AOAT2,alanine-2-oxoglutarate aminotransferase 2,0.042781536
+2428,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_7_98700,AT3G07600,Heavy metal transport/detoxification superfamily protein,0.042718021
+2441,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_3_139861,AT4G01150,,0.042674059
+2459,Lsat_1_v5_gn_3_59241,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_79721,AT5G38510,Rhomboid-related intramembrane serine protease family protein,0.04262704
+2481,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_1_47140,AT1G10340,Ankyrin repeat family protein,0.042540247
+2502,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,0.042462062
+2532,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_3_97620,AT3G02100,UDP-Glycosyltransferase superfamily protein,0.042400491
+2549,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_5_141561,AT5G57070,hydroxyproline-rich glycoprotein family protein,0.042346633
+2573,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_9_81040,AT1G27480,alpha/beta-Hydrolases superfamily protein,0.042265623
+2580,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_1_33701,AT1G15490,alpha/beta-Hydrolases superfamily protein,0.04225023
+2581,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_6_27301,SIGF,RNApolymerase sigma-subunit F,0.042247087
+2585,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_6_72801,AATP1,AAA-ATPase 1,0.042240738
+2602,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_1_94880,,,0.042181115
+2633,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_5_49001,AT4G15545,,0.042024073
+2640,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_3_7240,AT4G11570,Haloacid dehalogenase-like hydrolase (HAD) superfamily protein,0.042008874
+2641,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_5_54420,,,0.042007575
+2643,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_5_148320,AT5G01790,,0.042005218
+2692,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_6_22520,OHP,one helix protein,0.041869539
+2718,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_5_39260,AT1G54730,Major facilitator superfamily protein,0.041781695
+2785,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_5_18140,EDS1,alpha/beta-Hydrolases superfamily protein,0.041604774
+2834,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_64840,AT5G28050,Cytidine/deoxycytidylate deaminase family protein,0.041448734
+2835,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_8_91060,HOT5,GroES-like zinc-binding dehydrogenase family protein,0.041444305
+2844,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_4_111701,CaS,calcium sensing receptor,0.041422556
+2874,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_4_2440,AT1G13195,RING/U-box superfamily protein,0.04131056
+2877,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_7_109340,TSB2,tryptophan synthase beta-subunit 2,0.041299789
+2896,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_8_119040,,,0.04122563
+2926,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_8_119040,,,0.04114538
+2930,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_5_143381,MKK2,MAP kinase kinase 2,0.041139111
+2939,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_1_103341,,,0.041101544
+2941,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_2_45860,J20,DNAJ-like 20,0.0410961
+3004,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_4_41280,AT4G08850,Leucine-rich repeat receptor-like protein kinase family protein,0.040916744
+3012,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,0.040885312
+3015,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_126920,WRKY54,WRKY DNA-binding protein 54,0.040869535
+3017,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_7_17820,AT1G11660,heat shock protein 70 (Hsp 70) family protein,0.040868727
+3030,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_4_41280,AT4G08850,Leucine-rich repeat receptor-like protein kinase family protein,0.040837765
+3080,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_1_86980,MUR4,NAD(P)-binding Rossmann-fold superfamily protein,0.040688515
+3146,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_3_90240,AT3G50210,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,0.040534755
+3194,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_5_177800,AT3G07310,Protein of unknown function (DUF760),0.04039189
+3238,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_50320,CYP716A1,"cytochrome P450, family 716, subfamily A, polypeptide 1",0.040287059
+3257,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_5_121081,GSTU20,glutathione S-transferase TAU 20,0.040241954
+3280,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_4_122561,CYP82C4,"cytochrome P450, family 82, subfamily C, polypeptide 4",0.040202559
+3292,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_9_71981,AT2G27310,F-box family protein,0.040159339
+3327,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_6_4461,AT1G01490,Heavy metal transport/detoxification superfamily protein,0.040036341
+3338,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_5_105600,KT2/3,potassium transport 2/3,0.04001806
+3343,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_8_135021,AT1G63220,Calcium-dependent lipid-binding (CaLB domain) family protein,0.039996137
+3345,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_1_86480,AT5G38990,Malectin/receptor-like protein kinase family protein,0.039992709
+3376,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_2_62600,WAKL2,wall associated kinase-like 2,0.039910771
+3382,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_5_101600,ALDH2C4,aldehyde dehydrogenase 2C4,0.039891812
+3396,Lsat_1_v5_gn_3_59241,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_67840,AT1G54500,Rubredoxin-like superfamily protein,0.039853839
+3404,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_103761,AT5G20950,Glycosyl hydrolase family protein,0.039827331
+3450,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_6_41521,AT2G36430,Plant protein of unknown function (DUF247),0.039739256
+3452,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_6_41521,AT2G36430,Plant protein of unknown function (DUF247),0.039734742
+3484,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_4_147101,,,0.039650703
+3500,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_7_82781,AT2G14110,Haloacid dehalogenase-like hydrolase (HAD) superfamily protein,0.039614157
+3508,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_7_83081,AT5G64460,Phosphoglycerate mutase family protein,0.039590801
+3521,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_4_75800,AT3G48200,,0.03955202
+3527,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_1_20300,AT5G44250,"Protein of unknown function DUF829, transmembrane 53",0.039534036
+3563,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_4_149820,AT4G14240,CBS domain-containing protein with a domain of unknown function (DUF21),0.039417884
+3650,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_3_43541,AT3G47570,Leucine-rich repeat protein kinase family protein,0.039227739
+3672,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_6_47421,ALDH3F1,aldehyde dehydrogenase 3F1,0.039195802
+3681,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_1_28580,AT1G14430,glyoxal oxidase-related protein,0.039176493
+3716,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_6_55581,RLP46,receptor like protein 46,0.039104349
+3740,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_6_55581,RLP46,receptor like protein 46,0.039049333
+3744,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_4_114881,CYP83B1,"cytochrome P450, family 83, subfamily B, polypeptide 1",0.039042154
+3756,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_4_108360,AT1G18810,phytochrome kinase substrate-related,0.039002237
+3783,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_5_66800,AT2G30550,alpha/beta-Hydrolases superfamily protein,0.038955547
+3831,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_9_120201,AT4G24290,MAC/Perforin domain-containing protein,0.038862347
+3842,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_2_62600,WAKL2,wall associated kinase-like 2,0.038845885
+3897,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_3_48061,AT1G60160,Potassium transporter family protein,0.038730341
+3902,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_1_62161,AT5G22620,phosphoglycerate/bisphosphoglycerate mutase family protein,0.038718939
+3916,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_6_69800,KUP3,K+ uptake transporter 3,0.038689743
+3955,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_9_7300,,,0.038602172
+3983,Lsat_1_v5_gn_3_59241,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_8_85741,Lhca6,photosystem I light harvesting complex gene 6,0.038535805
+3985,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_3_39381,DFL2,Auxin-responsive GH3 family protein,0.038532055
+4022,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_2_47140,AT4G13840,HXXXD-type acyl-transferase family protein,0.038463977
+4026,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_8_119240,pPLAIIIbeta,patatin-like protein 6,0.038455142
+4041,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_3_14120,YSL1,YELLOW STRIPE like 1,0.038420652
+4050,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_9_22761,AT5G59350,,0.038406083
+4090,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_3_40720,PSB29,photosystem II reaction center PSB29 protein,0.038248434
+4122,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_2_6220,CRL1,NAD(P)-binding Rossmann-fold superfamily protein,0.038176775
+4126,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_3_99041,AT3G29000,Calcium-binding EF-hand family protein,0.038165214
+4146,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_8_137081,GRX480,Thioredoxin superfamily protein,0.038112712
+4150,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_5_148040,AT2G19130,S-locus lectin protein kinase family protein,0.038108164
+4162,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_5_30680,AT1G31130,,0.038091708
+4171,Lsat_1_v5_gn_3_59241,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_95901,AT2G27680,NAD(P)-linked oxidoreductase superfamily protein,0.038073687
+4215,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_5_123501,RTL1,RNAse II-like 1,0.037965946
+4248,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_1_46781,TINY2,Integrase-type DNA-binding superfamily protein,0.037917788
+4253,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_4_53920,AT1G28280,VQ motif-containing protein,0.037903579
+4278,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_6_55581,RLP46,receptor like protein 46,0.03785056
+4341,Lsat_1_v5_gn_3_59241,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_6_41501,,,0.037726633
+4366,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_5_30680,AT1G31130,,0.037683629
+4376,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_1_96800,AT2G46890,Protein of unknown function (DUF1295),0.037655454
+4385,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_1_28580,AT1G14430,glyoxal oxidase-related protein,0.037641192
+4451,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_5_34461,AT5G10310,,0.037517821
+4458,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_1_86800,AT5G39000,Malectin/receptor-like protein kinase family protein,0.037509403
+4486,Lsat_1_v5_gn_3_59241,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_80961,PMI2,Plant protein of unknown function (DUF827),0.037450117
+4495,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_49961,AT3G13510,Protein of Unknown Function (DUF239),0.037432811
+4513,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_3_64500,AT1G66330,senescence-associated family protein,0.03740128
+4523,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_7_19521,TIR1,F-box/RNI-like superfamily protein,0.037385146
+4526,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_4_64660,AT5G23280,TCP family transcription factor,0.037380953
+4534,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_2_87860,AT3G01060,,0.037371971
+4576,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_4_34681,CRCK2,calmodulin-binding receptor-like cytoplasmic kinase 2,0.037292737
+4619,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_4_143441,AT5G65530,Protein kinase superfamily protein,0.03720635
+4635,Lsat_1_v5_gn_3_59241,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_6_70580,AT5G66520,Tetratricopeptide repeat (TPR)-like superfamily protein,0.037180555
+4695,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_7_30220,AT5G46580,pentatricopeptide (PPR) repeat-containing protein,0.037054251
+4697,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_3_24840,PCB2,NAD(P)-binding Rossmann-fold superfamily protein,0.037049039
+4753,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_5_108680,ABC4,UbiA prenyltransferase family protein,0.036951993
+4754,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_9_44560,SULTR2;1,slufate transporter 2;1,0.036950125
+4796,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_9_32981,,,0.036890589
+4828,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_6_9340,AT4G24140,alpha/beta-Hydrolases superfamily protein,0.036834573
+4842,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_2_103140,HB2,haemoglobin 2,0.036813216
+4847,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_2_82860,AT4G37560,Acetamidase/Formamidase family protein,0.036800656
+4891,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_1_9780,ATHM2,Thioredoxin superfamily protein,0.036732111
+4977,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_8_44241,NdhL,inorganic carbon transport protein-related,0.036568641
+5034,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_7_82781,AT2G14110,Haloacid dehalogenase-like hydrolase (HAD) superfamily protein,0.036449978
+5061,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_6_95261,AT5G47070,Protein kinase superfamily protein,0.036400813
+5064,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_7_17820,AT1G11660,heat shock protein 70 (Hsp 70) family protein,0.036392495
+5078,Lsat_1_v5_gn_3_59241,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_1_73901,AT3G03080,Zinc-binding dehydrogenase family protein,0.036372199
+5111,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_3_125741,IAA14,indole-3-acetic acid inducible 14,0.036315509
+5166,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_5_124140,WRKY6,WRKY family transcription factor,0.036214002
+5184,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_125321,LSF2,dual specificity protein phosphatase (DsPTP1) family protein,0.036186607
+5196,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_5_24941,SPPA,signal peptide peptidase,0.036170769
+5197,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_1_12561,CYP71A25,"cytochrome P450, family 71, subfamily A, polypeptide 25",0.036169859
+5202,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_1_53381,PBP1,pinoid-binding protein 1,0.03615966
+5223,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_5_24920,UGT89B1,UDP-glucosyl transferase 89B1,0.036136573
+5230,Lsat_1_v5_gn_3_59241,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_4_151180,AT1G28100,,0.036119242
+5249,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_2_65961,AT4G33565,RING/U-box superfamily protein,0.036094655
+5253,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_3_25800,OVA4,Nucleotidylyl transferase superfamily protein,0.036088429
+5255,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_5_54420,,,0.036087051
+5260,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_8_106940,CEST,,0.036083935
+5284,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_9_32981,,,0.036039125
+5285,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_1_102041,AT5G36930,Disease resistance protein (TIR-NBS-LRR class) family,0.036036005
+5362,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_8_34780,TCP-1,T-complex protein 1 alpha subunit,0.035904355
+5431,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_4_112081,AT1G74070,Cyclophilin-like peptidyl-prolyl cis-trans isomerase family protein,0.035796026
+5502,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_6_17241,NUDT3,nudix hydrolase homolog 3,0.035676019
+5504,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_8_135021,AT1G63220,Calcium-dependent lipid-binding (CaLB domain) family protein,0.03567194
+5509,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_6_4461,AT1G01490,Heavy metal transport/detoxification superfamily protein,0.035663368
+5561,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_7_46640,AT5G36930,Disease resistance protein (TIR-NBS-LRR class) family,0.035583639
+5605,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_2_107701,AGAL2,alpha-galactosidase 2,0.035520763
+5640,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_4_182500,DEG1,DegP protease 1,0.035465725
+5673,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_9_103941,,,0.035411715
+5685,Lsat_1_v5_gn_3_59241,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_135020,AT5G24460,,0.035390456
+5718,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_7_14641,AT4G22290,Ubiquitin-specific protease family C19-related protein,0.035311896
+5721,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_1_93321,AT3G09440,Heat shock protein 70 (Hsp 70) family protein,0.035302076
+5733,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_2_77800,BCS1,cytochrome BC1 synthesis,0.03528534
+5734,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_3_14120,YSL1,YELLOW STRIPE like 1,0.035284717
+5742,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_5_184701,FKD1,FORKED 1,0.035276327
+5747,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_6_7081,,,0.035272661
+5763,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_9_24081,SMO2-1,sterol 4-alpha-methyl-oxidase 2-1,0.035241327
+5792,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_4_155561,PMI2,Plant protein of unknown function (DUF827),0.035196267
+5794,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_4_179880,,,0.035192326
+5795,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_6_26681,HB51,homeobox 51,0.035192269
+5797,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_3_46860,HPR,hydroxypyruvate reductase,0.035191519
+5799,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_35940,AT2G27290,Protein of unknown function (DUF1279),0.035184039
+5803,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_1_28580,AT1G14430,glyoxal oxidase-related protein,0.035180016
+5818,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_8_77941,ACR9,ACT domain-containing protein,0.035153013
+5837,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_4_38740,,,0.03510985
+5859,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_5_105200,EMB3103,Pentatricopeptide repeat (PPR) superfamily protein,0.03508252
+5926,Lsat_1_v5_gn_3_59241,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_4_14640,AT2G01410,NHL domain-containing protein,0.034983848
+5932,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_5_123501,RTL1,RNAse II-like 1,0.034972179
+5940,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_7_33460,SIG2,RNApolymerase sigma subunit 2,0.03496388
+5968,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_4_67401,UFD1,ubiquitin fusion degradation 1,0.034923427
+6004,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_2_12201,ASPG1,Eukaryotic aspartyl protease family protein,0.034865838
+6043,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_3_99620,MYB16,myb domain protein 16,0.034805237
+6063,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_8_120640,AT4G35360,Uncharacterised conserved protein (UCP030210),0.034777239
+6096,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_4_94081,RIPK,Protein kinase superfamily protein,0.034706492
+6101,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_2_83740,AT5G67385,Phototropic-responsive NPH3 family protein,0.034699215
+6130,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_7_97380,AT3G07670,Rubisco methyltransferase family protein,0.034660135
+6132,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_7_114220,D6PKL2,D6 protein kinase like 2,0.034657724
+6147,Lsat_1_v5_gn_3_59241,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_4_52780,AT1G65070,"DNA mismatch repair protein MutS, type 2",0.034640541
+6211,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_1_4261,AT5G50650,Transducin/WD40 repeat-like superfamily protein,0.034563406
+6260,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_5_148040,AT2G19130,S-locus lectin protein kinase family protein,0.034492023
+6282,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_9_35061,WAK2,wall-associated kinase 2,0.034451793
+6302,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_9_21201,,,0.034433743
+6325,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_6_102161,AT1G78020,Protein of unknown function (DUF581),0.034399552
+6354,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_2_120101,AT5G05840,Protein of unknown function (DUF620),0.034359739
+6374,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_5_18180,EDS1,alpha/beta-Hydrolases superfamily protein,0.034334994
+6392,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_1_12081,,,0.034310377
+6423,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_5_9161,AT1G73110,P-loop containing nucleoside triphosphate hydrolases superfamily protein,0.034258634
+6442,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_83701,AT4G37510,Ribonuclease III family protein,0.034224541
+6459,Lsat_1_v5_gn_3_59241,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_3_72001,MCA1,PLAC8 family protein,0.034208597
+6498,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_2_125321,LSF2,dual specificity protein phosphatase (DsPTP1) family protein,0.034149843
+6536,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_8_121800,EMB1030,"Alanyl-tRNA synthetase, class IIc",0.034086438
+6540,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_74441,SERAT3;2,serine acetyltransferase 3;2,0.034084141
+6586,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_3_116801,,,0.034013298
+6601,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_6_32621,AT2G46150,Late embryogenesis abundant (LEA) hydroxyproline-rich glycoprotein family,0.033997077
+6609,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_6_41541,AT2G36430,Plant protein of unknown function (DUF247),0.033984768
+6648,Lsat_1_v5_gn_3_59241,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_8_44280,CRR3,chlororespiratory reduction 3,0.033929351
+6652,Lsat_1_v5_gn_3_59241,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_8_29540,AT4G38540,FAD/NAD(P)-binding oxidoreductase family protein,0.033924261
+6659,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_8_14040,SIGA,sigma factor A,0.033911283
+6670,Lsat_1_v5_gn_3_59241,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_1_25121,FC1,ferrochelatase 1,0.033892381
+6690,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_4_175540,CML41,calmodulin-like 41,0.033871499
+6714,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_7_80180,AT3G09580,FAD/NAD(P)-binding oxidoreductase family protein,0.033839987
+6733,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_3_78100,AT5G66770,GRAS family transcription factor,0.033817139
+6752,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_2_120101,AT5G05840,Protein of unknown function (DUF620),0.033793622
+6779,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_7_64420,AT3G22810,Plant protein of unknown function (DUF828) with plant pleckstrin homology-like region,0.033749021
+6787,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_7_31880,PIP5K6,Phosphatidylinositol-4-phosphate 5-kinase family protein,0.03373474
+6793,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_7_45481,AT2G26690,Major facilitator superfamily protein,0.033728869
+6844,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_3_87680,ARA12,Subtilase family protein,0.0336653
+6868,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_9_27981,AT2G42220,Rhodanese/Cell cycle control phosphatase superfamily protein,0.033632889
+6908,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_8_146520,AT1G73885,,0.033579339
+6926,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_6_45560,AT1G08040,Protein of unknown function (DUF707),0.033552254
+6935,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_1_47140,AT1G10340,Ankyrin repeat family protein,0.033541532
+6937,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_6_90781,AT4G16650,O-fucosyltransferase family protein,0.033538316
+6959,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_9_63460,AT2G37800,Cysteine/Histidine-rich C1 domain family protein,0.03350988
+7009,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_1_87481,AT2G31920,Plant protein of unknown function (DUF936),0.033434027
+7042,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_6_114421,UGT85A1,UDP-Glycosyltransferase superfamily protein,0.033387348
+7072,Lsat_1_v5_gn_3_59241,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_8_54100,AT3G01300,Protein kinase superfamily protein,0.033348469
+7077,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_7_44940,AT5G36930,Disease resistance protein (TIR-NBS-LRR class) family,0.033334699
+7085,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_8_57160,AT4G14740,Plant protein of unknown function (DUF828) with plant pleckstrin homology-like region,0.033318949
+7094,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_1_71580,PGIP1,polygalacturonase inhibiting protein 1,0.033310427
+7146,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_5_24920,UGT89B1,UDP-glucosyl transferase 89B1,0.033232762
+7168,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_1_7161,NdhM,subunit NDH-M of NAD(P)H:plastoquinone dehydrogenase complex,0.033212237
+7198,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_4_29901,,,0.033173209
+7221,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_94641,SKL1,shikimate kinase like 1,0.033154858
+7256,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_6_43780,AT5G60800,Heavy metal transport/detoxification superfamily protein,0.033102794
+7286,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_3_137280,AT4G29960,,0.033077538
+7349,Lsat_1_v5_gn_3_59241,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_7_92681,PUX5,serine/threonine protein phosphatase 2A 55 kDa regulatory subunit B prime gamma,0.03300514
+7365,Lsat_1_v5_gn_3_59241,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_1_100400,HCF153,high chlorophyll fluorescence 153,0.032988589
+7440,Lsat_1_v5_gn_3_59241,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_3_22001,ICS2,isochorismate synthase 2,0.032884032
+7449,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_7_45721,AT5G20110,Dynein light chain type 1 family protein,0.032878728
+7559,Lsat_1_v5_gn_3_59241,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_4_35160,AT3G61540,alpha/beta-Hydrolases superfamily protein,0.032765629
+7571,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_1_66380,AT5G12950,Putative glycosyl hydrolase of unknown function (DUF1680),0.032744639
+7572,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_2_78261,AT1G77370,Glutaredoxin family protein,0.032741023
+7607,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_6_49121,AT3G58060,Cation efflux family protein,0.032699805
+7619,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_7_42121,AIM1,Enoyl-CoA hydratase/isomerase family,0.032684995
+7626,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_5_143381,MKK2,MAP kinase kinase 2,0.032677886
+7665,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_1_23701,CYP81D2,"cytochrome P450, family 81, subfamily D, polypeptide 2",0.032620759
+7670,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_4_63540,AT2G35760,Uncharacterised protein family (UPF0497),0.032611067
+7678,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_6_72741,AATP1,AAA-ATPase 1,0.032588145
+7700,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_6_15460,BRX,DZC (Disease resistance/zinc finger/chromosome condensation-like region) domain containing protein,0.032559713
+7712,Lsat_1_v5_gn_3_59241,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_9_92740,AT3G44670,Disease resistance protein (TIR-NBS-LRR class) family,0.032543102
+7752,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_4_104321,AT1G80360,Pyridoxal phosphate (PLP)-dependent transferases superfamily protein,0.032485714
+7800,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_3_61861,AT1G25390,Protein kinase superfamily protein,0.032434263
+7851,Lsat_1_v5_gn_3_59241,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_5_132800,HTA9,histone H2A protein 9,0.032372943
+7854,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_2_36780,WAKL2,wall associated kinase-like 2,0.032370687
+7880,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_7_46141,CRR6,chlororespiratory reduction 6,0.032336977
+7904,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_1_28241,AT5G63040,,0.032308073
+7905,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_8_64521,TET8,tetraspanin8,0.032306979
+7921,Lsat_1_v5_gn_2_126920,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_3_33741,AT2G19130,S-locus lectin protein kinase family protein,0.032284805
+7934,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_1_49441,AT4G16260,Glycosyl hydrolase superfamily protein,0.032272781
+7946,Lsat_1_v5_gn_3_59241,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_8_127861,AT4G38840,SAUR-like auxin-responsive protein family,0.032264782
+7949,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_4_12881,MEE11,RNI-like superfamily protein,0.032258052
+7962,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_7_99420,AT1G17200,Uncharacterised protein family (UPF0497),0.032244048
+8014,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_5_42060,AT2G34930,disease resistance family protein / LRR family protein,0.032180939
+8033,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_9_114521,PMDH1,peroxisomal NAD-malate dehydrogenase 1,0.032163985
+8099,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_7_66960,AT5G08350,GRAM domain-containing protein / ABA-responsive protein-related,0.032098584
+8134,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_6_42181,AT2G34930,disease resistance family protein / LRR family protein,0.032059421
+8158,Lsat_1_v5_gn_3_59241,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_1_32961,AT5G50740,Heavy metal transport/detoxification superfamily protein,0.032031849
+8171,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_6_17241,NUDT3,nudix hydrolase homolog 3,0.032022759
+8300,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_5_157060,MAP70-2,microtubule-associated proteins 70-2,0.031889388
+8312,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_8_133220,GHR1,Leucine-rich receptor-like protein kinase family protein,0.031879995
+8335,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_4_41280,AT4G08850,Leucine-rich repeat receptor-like protein kinase family protein,0.031852973
+8358,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_8_8140,TBL18,TRICHOME BIREFRINGENCE-LIKE 18,0.031821288
+8404,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_0_9740,AT5G54130,Calcium-binding endonuclease/exonuclease/phosphatase family,0.031773313
+8427,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_2_128600,PEX11B,peroxin 11B,0.031749565
+8439,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_6_90700,SCO1,Translation elongation factor EFG/EF2 protein,0.031730195
+8471,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_5_101600,ALDH2C4,aldehyde dehydrogenase 2C4,0.031691937
+8575,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_127180,AT5G61670,,0.031600615
+8586,Lsat_1_v5_gn_3_59241,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_5_166481,RIBA3,DHBP synthase RibB-like alpha/beta domain;GTP cyclohydrolase II,0.03158374
+8606,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_3_2341,BETA-VPE,beta vacuolar processing enzyme,0.031565236
+8662,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_4_78521,CYP71A22,"cytochrome P450, family 71, subfamily A, polypeptide 22",0.031515179
+8724,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_4_39040,COX10,cytochrome c oxidase 10,0.031463195
+8748,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_4_175540,CML41,calmodulin-like 41,0.031437811
+8761,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_2_37340,NdhO,NAD(P)H:plastoquinone dehydrogenase complex subunit O,0.031420648
+8762,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_7_81581,UGT85A5,UDP-glucosyl transferase 85A5,0.031420361
+8773,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_6_103341,TSD2,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein,0.031409004
+8774,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_1_20300,AT5G44250,"Protein of unknown function DUF829, transmembrane 53",0.031406296
+8826,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_1_33201,RSH2,root hair specific 2,0.031346198
+8865,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_1_76521,AFH1,formin homology 1,0.031307044
+8876,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_5_179700,PKT3,peroxisomal 3-ketoacyl-CoA thiolase 3,0.031294515
+8883,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_2_65961,AT4G33565,RING/U-box superfamily protein,0.031285675
+8936,Lsat_1_v5_gn_3_59241,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_3_28221,AT5G11730,"Core-2/I-branching beta-1,6-N-acetylglucosaminyltransferase family protein",0.031237815
+8967,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_1_24560,AT4G10140,,0.031205468
+8970,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_2_74920,AT3G54070,Ankyrin repeat family protein,0.031204366
+9028,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_6_110941,AT1G10220,,0.031140086
+9038,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_6_67620,SLP2,Calcineurin-like metallo-phosphoesterase superfamily protein,0.031130456
+9039,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_1_58500,AT5G06480,Immunoglobulin E-set superfamily protein,0.031130283
+9053,Lsat_1_v5_gn_3_59241,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_4_95921,UBP6,ubiquitin-specific protease 6,0.031120253
+9064,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_7_89660,AT1G49350,pfkB-like carbohydrate kinase family protein,0.031112864
+9118,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_5_134441,ATHB-15,Homeobox-leucine zipper family protein / lipid-binding START domain-containing protein,0.031059651
+9123,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_2_101560,AT3G32930,,0.031051242
+9151,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_6_4461,AT1G01490,Heavy metal transport/detoxification superfamily protein,0.031022944
+9203,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_5_159560,AT4G20930,6-phosphogluconate dehydrogenase family protein,0.030980949
+9221,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_1_66380,AT5G12950,Putative glycosyl hydrolase of unknown function (DUF1680),0.030959072
+9254,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_2_86861,AT5G17680,"disease resistance protein (TIR-NBS-LRR class), putative",0.030923603
+9283,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_9_53840,AT5G62140,,0.030891554
+9287,Lsat_1_v5_gn_3_59241,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_5_139501,UBP1A,oligouridylate-binding protein 1A,0.030884959
+9308,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_1_19040,AT1G75280,NmrA-like negative transcriptional regulator family protein,0.0308685
+9310,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_124481,FER2,ferritin 2,0.030868066
+9336,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_5_178260,AT3G07470,"Protein of unknown function, DUF538",0.030845489
+9369,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_4_184040,AT5G40500,,0.0308138
+9384,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_1_90561,HERK1,hercules receptor kinase 1,0.030795998
+9429,Lsat_1_v5_gn_3_59241,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_8_132021,FMO GS-OX5,flavin-monooxygenase glucosinolate S-oxygenase 5,0.030750405
+9479,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_8_59821,AT4G30993,Calcineurin-like metallo-phosphoesterase superfamily protein,0.030694467
+9490,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_4_75281,PEX14,peroxin 14,0.030688773
+9496,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_2_132241,AT2G34930,disease resistance family protein / LRR family protein,0.030679496
+9509,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_5_147080,OASA1,O-acetylserine (thiol) lyase (OAS-TL) isoform A1,0.03066647
+9533,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_3_28500,CAF2,RNA-binding CRS1 / YhbY (CRM) domain-containing protein,0.030641157
+9563,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_4_78501,PMSR4,peptide met sulfoxide reductase 4,0.030613096
+9580,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_1_122000,AT4G21770,Pseudouridine synthase family protein,0.030593306
+9582,Lsat_1_v5_gn_3_59241,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_4_174121,AT3G30380,alpha/beta-Hydrolases superfamily protein,0.030593119
+9636,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_6_3201,ASG7,,0.030544537
+9689,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_3_79700,MEE31,"Mannose-6-phosphate isomerase, type I",0.030504194
+9692,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_6_41541,AT2G36430,Plant protein of unknown function (DUF247),0.030502997
+9698,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_7_107001,RK3,receptor kinase 3,0.030499258
+9744,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_4_60620,AT1G11700,"Protein of unknown function, DUF584",0.030450048
+9745,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_87860,AT3G01060,,0.030448816
+9746,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_9_21221,,,0.030448532
+9748,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_8_61100,AT4G31020,alpha/beta-Hydrolases superfamily protein,0.030447629
+9792,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_6_72741,AATP1,AAA-ATPase 1,0.030413778
+9799,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_4_180921,SAG101,senescence-associated gene 101,0.03040632
+9834,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_67600,ATH13,ABC2 homolog 13,0.03035946
+9950,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_4_94081,RIPK,Protein kinase superfamily protein,0.030242171
+9952,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_4_167201,FER,Malectin/receptor-like protein kinase family protein,0.030241485
+9995,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_9_46800,AT1G16650,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein,0.030204489
+10029,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_4_122561,CYP82C4,"cytochrome P450, family 82, subfamily C, polypeptide 4",0.03017988
+10065,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_6461,AT1G42430,,0.030137158
+10082,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_4_78501,PMSR4,peptide met sulfoxide reductase 4,0.030117359
+10086,Lsat_1_v5_gn_3_59241,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_4_180220,AATP1,AAA-ATPase 1,0.030115346
+10146,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_7_44620,OEP37,chloroplast outer envelope protein 37,0.030051496
+10154,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_7_66100,UGT74E2,Uridine diphosphate glycosyltransferase 74E2,0.030043017
+10178,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_6_8180,PGR5-LIKE A,PGR5-LIKE A,0.030023741
+10186,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_8_121441,TMT2,tonoplast monosaccharide transporter2,0.030017452
+10282,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_4_4281,AT5G40460,,0.029935287
+10299,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_4_135241,AT1G21780,BTB/POZ domain-containing protein,0.02992296
+10302,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_109900,AT5G02830,Tetratricopeptide repeat (TPR)-like superfamily protein,0.029921948
+10304,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_5_99040,PID2,"AGC (cAMP-dependent, cGMP-dependent and protein kinase C) kinase family protein",0.029919006
+10338,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_95760,AT3G44610,Protein kinase superfamily protein,0.029896345
+10357,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_8_96580,TINY2,Integrase-type DNA-binding superfamily protein,0.029881215
+10388,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_3_39381,DFL2,Auxin-responsive GH3 family protein,0.029847057
+10397,Lsat_1_v5_gn_3_59241,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_6_11281,ATS9,non-ATPase subunit 9,0.029841296
+10407,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_8_27020,PUB43,ARM repeat superfamily protein,0.029834046
+10420,Lsat_1_v5_gn_3_59241,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_5_9501,CNX1,calnexin 1,0.029823306
+10460,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_8_84160,emb1513,copper ion transmembrane transporters,0.029783032
+10537,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_2_36961,FC2,ferrochelatase 2,0.029706891
+10612,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_9_96420,,,0.029640118
+10618,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_9_46720,AT1G76110,HMG (high mobility group) box protein with ARID/BRIGHT DNA-binding domain,0.029635753
+10644,Lsat_1_v5_gn_7_6501,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_3_9081,SNX2b,sorting nexin 2B,0.02961163
+10724,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_2_83701,AT4G37510,Ribonuclease III family protein,0.029542966
+10747,Lsat_1_v5_gn_3_139241,WRKY46,WRKY DNA-binding protein 46,Lsat_1_v5_gn_6_114421,UGT85A1,UDP-Glycosyltransferase superfamily protein,0.029518011
+10753,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_2_3000,,,0.029513919
+10758,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_2_126920,WRKY54,WRKY DNA-binding protein 54,0.02950674
+10821,Lsat_1_v5_gn_3_59241,BBX15,B-box type zinc finger protein with CCT domain,Lsat_1_v5_gn_4_121761,AT1G47740,PPPDE putative thiol peptidase family protein,0.029464753
+10827,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_5_167800,AT5G59350,,0.029457785
+10853,Lsat_1_v5_gn_9_38680,WRKY70,WRKY DNA-binding protein 70,Lsat_1_v5_gn_4_147101,,,0.029424592
+10867,Lsat_1_v5_gn_4_65921,GPRI1,GBF's pro-rich region-interacting factor 1,Lsat_1_v5_gn_1_75300,PGR5,proton gradient regulation 5,0.029413908
+10899,Lsat_1_v5_gn_2_126880,WRKY54,WRKY DNA-binding protein 54,Lsat_1_v5_gn_2_107521,,,0.029380022
+10905,Lsat_1_v5_gn_7_60801,WRKY50,WRKY DNA-binding protein 50,Lsat_1_v5_gn_8_120300,LYM2,lysm domain GPI-anchored protein 2 precursor,0.029376892
